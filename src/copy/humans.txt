@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <BahbV> -- <Developer> 
+
+# THANKS
+
+    <https://github.com/h5bp/html5-boilerplate>
+    <https://github.com/cferdinandi/gulp-boilerplate>
+    <https://github.com/HugoGiraudel/sass-boilerplate>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
